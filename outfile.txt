@@ -1,0 +1,5 @@
+22.6474     Normal
+31.6158     Obese Class I (Moderately obese)
+16.3847     Underweight
+27.7634     Overweight
+20.5289     Normal
